@@ -1,17 +1,17 @@
-<h1>Hello there! I'm Jimmy ✨</h1>
+<h1>Hola a todos! Soy Jimmy Prada ✨</h1>
 
 <p align='center'>
-  As a former graphic designer turned front end developer, I bring a unique perspective and set of skills to the table. My background in design has given me an eye for aesthetics and user experience, which I apply to my work in front end development.
+ Soy Fullstack Developer altamente capacitado con más de 10 años de experiencia en el desarrollo de aplicaciones web. Experto en tecnologías de frontend y backend, con un enfoque especial en Java y Python. Amplio conocimiento de frameworks como Spring, Quarkus, Django, Flask, FastApi y experiencia en bases de datos relacionales y no relacionales. Fuerte habilidad para trabajar en equipos multidisciplinarios y entregar proyectos de alta calidad en plazos ajustados.
 </p>
 
 <p align='center'>
-  I’m always looking to expand my skillset and stay up-to-date with the latest developments in the field. I'm passionate about building beautiful, intuitive, and functional web applications, and I'm excited to continue learning and growing as a developer.
+  Siempre estoy buscando ampliar mis habilidades y mantenerme al día con los últimos avances en el campo. Me apasiona crear aplicaciones web bonitas, intuitivas y funcionales, y me entusiasma seguir aprendiendo y creciendo como desarrollador.
 </p>
 
 <p align='center'>
-  <a href="https://twitter.com/_Sharonina"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sharoninaa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:shar.mdza@gmail.com?subject=Hola%20Sharon"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/jprada1984"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jimmy-prada-guadalupe-3319b199/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:jprada1984@gmail.com?subject=Hola%20Sharon"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
 
