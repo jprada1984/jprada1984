@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/mongodb%20-%2358aa80.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/firebase%20-%23FFCB2D.svg?&style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/python%20-%23FFCB2D.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/python%20-%23339933.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
  
 </p>
 
