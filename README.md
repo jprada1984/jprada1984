@@ -1,7 +1,11 @@
 <h1 align="center">Hola a todos soy Jimmy Prada Guadalupe</h1>
-<h3 align="center">Soy Fullstack Developer altamente capacitado con más de 10 años de experiencia en el desarrollo de aplicaciones web. Experto en tecnologías de frontend y backend, con un enfoque especial en Java y Python. Amplio conocimiento de frameworks como Spring, Quarkus, Django, Flask, FastApi y experiencia en bases de datos relacionales y no relacionales. Fuerte habilidad para trabajar en equipos multidisciplinarios y entregar proyectos de alta calidad en plazos ajustados. Siempre estoy buscando ampliar mis habilidades y mantenerme al día con los últimos avances en el campo. Me apasiona crear aplicaciones web bonitas, intuitivas y funcionales, y me entusiasma seguir aprendiendo y creciendo como desarrollador.</h3>
+<h3 align="justify">Soy Fullstack Developer altamente capacitado con más de 10 años de experiencia en el desarrollo de aplicaciones web. Experto en tecnologías de frontend y backend, con un enfoque especial en Java y Python. Amplio conocimiento de frameworks como Spring, Quarkus, Django, Flask, FastApi y experiencia en bases de datos relacionales y no relacionales. Fuerte habilidad para trabajar en equipos multidisciplinarios y entregar proyectos de alta calidad en plazos ajustados. Siempre estoy buscando ampliar mis habilidades y mantenerme al día con los últimos avances en el campo. Me apasiona crear aplicaciones web bonitas, intuitivas y funcionales, y me entusiasma seguir aprendiendo y creciendo como desarrollador.</h3>
 
 <p align="left"> <a href="https://twitter.com/jprada1984" target="blank"><img src="https://img.shields.io/twitter/follow/jprada1984?logo=twitter&style=for-the-badge" alt="jprada1984" /></a> </p>
+
+- 🌱 I’m currently learning **Big Data y Machine learning**
+
+- 💬 Ask me about **vue,svelte,python,java**
 
 - 📫 How to reach me **jprada1984@gmail.com**
 
